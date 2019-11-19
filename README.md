@@ -4,6 +4,6 @@ Super simple applescripts to configure bash prompts when sshing into a new xNix 
 
 Check them out the the following location:
 
-```
-Users/myusername/Library/Application\ Support/iTerm2/Scripts
+```cmd
+/Users/myusername/Library/Application Support/iTerm2/Scripts
 ```
